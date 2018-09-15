@@ -13,5 +13,5 @@ To Run this Code:
  6. Run ``` get_as.py ``` to get a list of the gurard ASes.
  7. Run ```counter_raptor_resilience.py ``` with the appropriate network topology and AS list. 
  8. Run  ``` get_tille_resilience.py ``` to get a .json of the tille resiliences.
- 9. Run a corresponding attack file to analyze a given entropy type.
- 10. Run ``` optimization.py``` to run a monte-carlo simulation to determine the quality function to be used in DPSelect.
+ 9. Run ``` optimization.py``` to run a monte-carlo simulation to determine the quality function to be used in DPSelect.
+ 10. Run a corresponding attack file to analyze a given entropy type.
